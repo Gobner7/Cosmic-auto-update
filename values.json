@@ -101,7 +101,7 @@ elseif GameId == 142553158 then
         self.Values = Values;
         return Values;
     end;
-elseif GameId == 331777874 then
+elseif GameId == 3317771874 then
     Api.Game = "PetSimulator99";
     local URL = "https://petsimulatorvalues.com/ps99.php?category=Huges";
     local Pattern = '<h5 class="item-name">(.-)</h5>.*<span class="float-right pt-2">(.-)</span>';
