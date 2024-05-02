@@ -2,7 +2,7 @@
     "values": [
         {
             "name": "huge cat",
-            "value": 2200000000,
+            "value": 2150000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -14,7 +14,7 @@
         },
         {
             "name": "huge pumpkin cat",
-            "value": 91000000,
+            "value": 85000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -50,7 +50,7 @@
         },
         {
             "name": "huge festive cat",
-            "value": 77000000,
+            "value": 74000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -68,7 +68,7 @@
         },
         {
             "name": "huge forest wyvern",
-            "value": 252000000,
+            "value": 240000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -86,7 +86,7 @@
         },
         {
             "name": "huge hacked cat",
-            "value": 122000000,
+            "value": 110000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -104,7 +104,7 @@
         },
         {
             "name": "huge gargoyle dragon",
-            "value": 176000000,
+            "value": 172000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -140,7 +140,7 @@
         },
         {
             "name": "huge dragon",
-            "value": 111000000,
+            "value": 105000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -158,7 +158,7 @@
         },
         {
             "name": "huge lucky cat",
-            "value": 225000000,
+            "value": 235000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -176,7 +176,7 @@
         },
         {
             "name": "huge cupcake",
-            "value": 72000000,
+            "value": 66000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -212,7 +212,7 @@
         },
         {
             "name": "huge storm agony",
-            "value": 895000000,
+            "value": 875000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -230,7 +230,7 @@
         },
         {
             "name": "huge pixel cat",
-            "value": 72000000,
+            "value": 69000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -248,7 +248,7 @@
         },
         {
             "name": "huge easter cat",
-            "value": 520000000,
+            "value": 515000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -266,7 +266,7 @@
         },
         {
             "name": "huge super corgi",
-            "value": 108000000,
+            "value": 106000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -284,7 +284,7 @@
         },
         {
             "name": "huge rainbow unicorn",
-            "value": 161000000,
+            "value": 177000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -302,7 +302,7 @@
         },
         {
             "name": "huge floppa",
-            "value": 120000000,
+            "value": 118000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -320,7 +320,7 @@
         },
         {
             "name": "huge sleipnir",
-            "value": 196000000,
+            "value": 210000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -332,7 +332,7 @@
         },
         {
             "name": "huge hell rock",
-            "value": 58000000,
+            "value": 56000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -350,7 +350,7 @@
         },
         {
             "name": "huge cyborg capybara",
-            "value": 417000000,
+            "value": 410000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -368,7 +368,7 @@
         },
         {
             "name": "huge capybara",
-            "value": 393000000,
+            "value": 370000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -386,7 +386,7 @@
         },
         {
             "name": "huge party cat",
-            "value": 162000000,
+            "value": 152000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -404,7 +404,7 @@
         },
         {
             "name": "huge scary cat",
-            "value": 68000000,
+            "value": 65000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -422,7 +422,7 @@
         },
         {
             "name": "huge scary corgi",
-            "value": 66000000,
+            "value": 63000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -440,7 +440,7 @@
         },
         {
             "name": "huge grim reaper",
-            "value": 391000000,
+            "value": 375000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -458,7 +458,7 @@
         },
         {
             "name": "huge prickly panda",
-            "value": 560000000,
+            "value": 565000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -494,7 +494,7 @@
         },
         {
             "name": "huge balloon cat",
-            "value": 177000000,
+            "value": 166000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -512,7 +512,7 @@
         },
         {
             "name": "huge blue balloon cat",
-            "value": 1780000000,
+            "value": 1750000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -530,7 +530,7 @@
         },
         {
             "name": "huge neon twilight dragon",
-            "value": 530000000,
+            "value": 575000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -548,7 +548,7 @@
         },
         {
             "name": "huge neon twilight wolf",
-            "value": 180000000,
+            "value": 183000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -566,7 +566,7 @@
         },
         {
             "name": "huge orange balloon cat",
-            "value": 263000000,
+            "value": 270000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -578,7 +578,7 @@
         },
         {
             "name": "huge scarecrow cat",
-            "value": 70000000,
+            "value": 68000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -608,7 +608,7 @@
         },
         {
             "name": "huge anime agony",
-            "value": 650000000,
+            "value": 640000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -626,7 +626,7 @@
         },
         {
             "name": "huge anime unicorn",
-            "value": 131000000,
+            "value": 125000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -644,7 +644,7 @@
         },
         {
             "name": "huge party dog",
-            "value": 98000000,
+            "value": 93000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -662,7 +662,7 @@
         },
         {
             "name": "huge elf cat",
-            "value": 69000000,
+            "value": 68000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -680,7 +680,7 @@
         },
         {
             "name": "huge elf dog",
-            "value": 69000000,
+            "value": 64000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -698,7 +698,7 @@
         },
         {
             "name": "huge crowned cat",
-            "value": 6840000000,
+            "value": 6500000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -716,7 +716,7 @@
         },
         {
             "name": "huge jolly penguin",
-            "value": 67000000,
+            "value": 62000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -734,7 +734,7 @@
         },
         {
             "name": "huge snowman",
-            "value": 159000000,
+            "value": 165000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -752,7 +752,7 @@
         },
         {
             "name": "huge mrs claws",
-            "value": 74000000,
+            "value": 75000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -770,7 +770,7 @@
         },
         {
             "name": "huge grinch cat",
-            "value": 109000000,
+            "value": 102000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -806,7 +806,7 @@
         },
         {
             "name": "huge party crown ducky",
-            "value": 106000000,
+            "value": 104000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -824,7 +824,7 @@
         },
         {
             "name": "huge balloon axolotl",
-            "value": 144000000,
+            "value": 145000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -836,7 +836,7 @@
         },
         {
             "name": "huge balloon dragon",
-            "value": 127000000,
+            "value": 122000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -848,7 +848,7 @@
         },
         {
             "name": "huge lucki dominus",
-            "value": 188000000,
+            "value": 198000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -866,7 +866,7 @@
         },
         {
             "name": "huge doodle cat",
-            "value": 89000000,
+            "value": 83000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -884,7 +884,7 @@
         },
         {
             "name": "huge neon cat",
-            "value": 113000000,
+            "value": 105000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -896,7 +896,7 @@
         },
         {
             "name": "huge neon griffin",
-            "value": 155000000,
+            "value": 157000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -908,7 +908,7 @@
         },
         {
             "name": "huge doodle fairy",
-            "value": 86000000,
+            "value": 81000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -926,7 +926,7 @@
         },
         {
             "name": "huge pterodactyl",
-            "value": 63000000,
+            "value": 62000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -944,7 +944,7 @@
         },
         {
             "name": "huge chameleon",
-            "value": 123000000,
+            "value": 117000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -956,7 +956,7 @@
         },
         {
             "name": "huge king cobra",
-            "value": 67000000,
+            "value": 60000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -974,7 +974,7 @@
         },
         {
             "name": "huge peacock",
-            "value": 63000000,
+            "value": 57000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -992,7 +992,7 @@
         },
         {
             "name": "huge angelus",
-            "value": 2250000000,
+            "value": 2200000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1010,7 +1010,7 @@
         },
         {
             "name": "huge orca",
-            "value": 88000000,
+            "value": 87000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1028,7 +1028,7 @@
         },
         {
             "name": "huge party axolotl",
-            "value": 89000000,
+            "value": 86000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1046,7 +1046,7 @@
         },
         {
             "name": "huge cupid corgi",
-            "value": 73000000,
+            "value": 69000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1064,7 +1064,7 @@
         },
         {
             "name": "huge knife cat",
-            "value": 95000000,
+            "value": 90000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1076,7 +1076,7 @@
         },
         {
             "name": "huge pop cat",
-            "value": 550000000,
+            "value": 545000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1088,7 +1088,7 @@
         },
         {
             "name": "huge safari cat",
-            "value": 147000000,
+            "value": 145000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1124,7 +1124,7 @@
         },
         {
             "name": "huge meebo in a spaceship",
-            "value": 305000000,
+            "value": 304000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1142,7 +1142,7 @@
         },
         {
             "name": "huge diamond cat",
-            "value": 845000000,
+            "value": 835000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1160,7 +1160,7 @@
         },
         {
             "name": "huge storm dominus",
-            "value": 111000000,
+            "value": 115000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1172,7 +1172,7 @@
         },
         {
             "name": "huge inferno dominus",
-            "value": 154000000,
+            "value": 150000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1184,7 +1184,7 @@
         },
         {
             "name": "huge comet cyclops",
-            "value": 141000000,
+            "value": 139000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1220,7 +1220,7 @@
         },
         {
             "name": "huge clover dragon",
-            "value": 138000000,
+            "value": 140000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1238,7 +1238,7 @@
         },
         {
             "name": "huge clover unicorn",
-            "value": 98000000,
+            "value": 93000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1256,7 +1256,7 @@
         },
         {
             "name": "huge leprechaun cat",
-            "value": 65000000,
+            "value": 62000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1310,7 +1310,7 @@
         },
         {
             "name": "huge ninja axolotl",
-            "value": 102000000,
+            "value": 105000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1346,7 +1346,7 @@
         },
         {
             "name": "huge hologram axolotl",
-            "value": 116000000,
+            "value": 113000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1358,7 +1358,7 @@
         },
         {
             "name": "huge hologram shark",
-            "value": 109000000,
+            "value": 105000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1370,7 +1370,7 @@
         },
         {
             "name": "huge error cat",
-            "value": 78000000,
+            "value": 72000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1388,7 +1388,7 @@
         },
         {
             "name": "huge marshmallow agony",
-            "value": 79000000,
+            "value": 74000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1406,7 +1406,7 @@
         },
         {
             "name": "huge easter dominus",
-            "value": 74000000,
+            "value": 69000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1424,7 +1424,7 @@
         },
         {
             "name": "huge painted cat",
-            "value": 81000000,
+            "value": 82000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1442,7 +1442,7 @@
         },
         {
             "name": "huge easter bunny",
-            "value": 67000000,
+            "value": 63000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1460,7 +1460,7 @@
         },
         {
             "name": "huge redstone cat",
-            "value": 99000000,
+            "value": 96000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1472,7 +1472,7 @@
         },
         {
             "name": "huge amethyst dragon",
-            "value": 169000000,
+            "value": 162000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1484,7 +1484,7 @@
         },
         {
             "name": "huge easter yeti",
-            "value": 134000000,
+            "value": 130000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1502,7 +1502,7 @@
         },
         {
             "name": "huge goblin",
-            "value": 59000000,
+            "value": 55000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1520,7 +1520,7 @@
         },
         {
             "name": "huge colorful slime",
-            "value": 61000000,
+            "value": 58000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1538,7 +1538,7 @@
         },
         {
             "name": "huge gecko",
-            "value": 71000000,
+            "value": 67000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1556,7 +1556,7 @@
         },
         {
             "name": "huge kraken",
-            "value": 435000000,
+            "value": 400000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1574,7 +1574,7 @@
         },
         {
             "name": "huge m10 prototype",
-            "value": 235000000,
+            "value": 223000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1586,7 +1586,7 @@
         },
         {
             "name": "huge pinata cat",
-            "value": 330000000,
+            "value": 335000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1604,7 +1604,7 @@
         },
         {
             "name": "huge cool cat",
-            "value": 135000000,
+            "value": 130000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1622,7 +1622,7 @@
         },
         {
             "name": "huge safari dog",
-            "value": 405000000,
+            "value": 400000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1652,7 +1652,7 @@
         },
         {
             "name": "huge jelly corgi",
-            "value": 173000000,
+            "value": 165000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1664,7 +1664,7 @@
         },
         {
             "name": "huge sombrero chihuahua",
-            "value": 860000000,
+            "value": 855000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1682,7 +1682,7 @@
         },
         {
             "name": "huge party penguin",
-            "value": 147000000,
+            "value": 151000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1700,7 +1700,7 @@
         },
         {
             "name": "huge basketball retriever",
-            "value": 775000000,
+            "value": 770000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1718,7 +1718,7 @@
         },
         {
             "name": "huge firefighter dalmatian",
-            "value": 114000000,
+            "value": 110000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1736,7 +1736,7 @@
         },
         {
             "name": "huge nightmare spirit",
-            "value": 106000000,
+            "value": 113000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1748,7 +1748,7 @@
         },
         {
             "name": "huge nightmare kraken",
-            "value": 214000000,
+            "value": 209000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1760,7 +1760,7 @@
         },
         {
             "name": "huge pirate parrot",
-            "value": 100000000,
+            "value": 110000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1778,7 +1778,7 @@
         },
         {
             "name": "huge sailor shark",
-            "value": 95000000,
+            "value": 101000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1796,7 +1796,7 @@
         },
         {
             "name": "huge pineapple cat",
-            "value": 76000000,
+            "value": 72000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1814,7 +1814,7 @@
         },
         {
             "name": "huge gamer shiba",
-            "value": 623000000,
+            "value": 610000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1832,13 +1832,13 @@
         },
         {
             "name": "huge chef cat",
-            "value": 69000000,
+            "value": 64000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge big maskot",
-            "value": 98000000,
+            "value": 90000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1850,7 +1850,7 @@
         },
         {
             "name": "huge tiki dominus",
-            "value": 382000000,
+            "value": 400000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1868,7 +1868,7 @@
         },
         {
             "name": "huge pufferfish",
-            "value": 300000000,
+            "value": 305000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1904,7 +1904,7 @@
         },
         {
             "name": "huge atlantean orca",
-            "value": 167000000,
+            "value": 164000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1916,7 +1916,7 @@
         },
         {
             "name": "huge atlantean dolphin",
-            "value": 187000000,
+            "value": 182000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1928,7 +1928,7 @@
         },
         {
             "name": "huge luau cat",
-            "value": 82000000,
+            "value": 78000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1946,7 +1946,7 @@
         },
         {
             "name": "huge sandcastle cat",
-            "value": 171000000,
+            "value": 183000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1964,7 +1964,7 @@
         },
         {
             "name": "huge arcade cat",
-            "value": 200000000,
+            "value": 190000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -1982,7 +1982,7 @@
         },
         {
             "name": "huge sun angelus",
-            "value": 200000000,
+            "value": 221000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2000,7 +2000,7 @@
         },
         {
             "name": "huge party monkey",
-            "value": 435000000,
+            "value": 430000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2018,7 +2018,7 @@
         },
         {
             "name": "huge stunt unicorn",
-            "value": 15960000000,
+            "value": 15200000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2042,7 +2042,7 @@
         },
         {
             "name": "huge cosmic agony",
-            "value": 265000000,
+            "value": 250000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2054,7 +2054,7 @@
         },
         {
             "name": "huge cosmic axolotl",
-            "value": 129000000,
+            "value": 125000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2066,7 +2066,7 @@
         },
         {
             "name": "huge lucki agony",
-            "value": 220000000,
+            "value": 218000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2084,7 +2084,7 @@
         },
         {
             "name": "huge happy rock",
-            "value": 56000000,
+            "value": 54500000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2102,7 +2102,7 @@
         },
         {
             "name": "huge vampire bat",
-            "value": 88000000,
+            "value": 98000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2120,7 +2120,7 @@
         },
         {
             "name": "huge stealth dragon",
-            "value": 90000000,
+            "value": 85000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2138,7 +2138,7 @@
         },
         {
             "name": "huge stealth bobcat",
-            "value": 100000000,
+            "value": 103000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2156,7 +2156,7 @@
         },
         {
             "name": "huge mosaic lamb",
-            "value": 77000000,
+            "value": 75000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2174,7 +2174,7 @@
         },
         {
             "name": "huge mosaic griffin",
-            "value": 81000000,
+            "value": 78000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2192,7 +2192,7 @@
         },
         {
             "name": "huge mosaic corgi",
-            "value": 78000000,
+            "value": 73000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2210,7 +2210,7 @@
         },
         {
             "name": "huge pixel dragon",
-            "value": 93000000,
+            "value": 92000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2228,7 +2228,7 @@
         },
         {
             "name": "huge pixel corgi",
-            "value": 67000000,
+            "value": 62000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2246,7 +2246,7 @@
         },
         {
             "name": "huge empyrean agony",
-            "value": 127000000,
+            "value": 115000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2264,7 +2264,7 @@
         },
         {
             "name": "huge tiedye corgi",
-            "value": 87000000,
+            "value": 84000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2282,7 +2282,7 @@
         },
         {
             "name": "huge tiedye cat",
-            "value": 90000000,
+            "value": 84000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2300,7 +2300,7 @@
         },
         {
             "name": "huge tiedye bunny",
-            "value": 102000000,
+            "value": 100000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2318,7 +2318,7 @@
         },
         {
             "name": "huge tiedye axolotl",
-            "value": 117000000,
+            "value": 125000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2336,7 +2336,7 @@
         },
         {
             "name": "huge cyborg cat",
-            "value": 167000000,
+            "value": 160000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2354,7 +2354,7 @@
         },
         {
             "name": "huge cyborg dragon",
-            "value": 101000000,
+            "value": 99000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2372,7 +2372,7 @@
         },
         {
             "name": "huge exquisite cat",
-            "value": 135000000,
+            "value": 131000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2390,7 +2390,7 @@
         },
         {
             "name": "huge exquisite parrot",
-            "value": 94000000,
+            "value": 90000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2408,7 +2408,7 @@
         },
         {
             "name": "huge masked owl",
-            "value": 161000000,
+            "value": 180000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2426,7 +2426,7 @@
         },
         {
             "name": "huge turtle",
-            "value": 130000000,
+            "value": 125000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2444,7 +2444,7 @@
         },
         {
             "name": "huge husky",
-            "value": 190000000,
+            "value": 186000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2462,7 +2462,7 @@
         },
         {
             "name": "huge shark",
-            "value": 126000000,
+            "value": 140000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2480,7 +2480,7 @@
         },
         {
             "name": "huge fairy",
-            "value": 160000000,
+            "value": 158000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2498,7 +2498,7 @@
         },
         {
             "name": "huge shadow griffin",
-            "value": 402000000,
+            "value": 385000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2516,7 +2516,7 @@
         },
         {
             "name": "huge samurai dragon",
-            "value": 235000000,
+            "value": 233000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2534,7 +2534,7 @@
         },
         {
             "name": "huge bear",
-            "value": 166000000,
+            "value": 162000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2552,7 +2552,7 @@
         },
         {
             "name": "huge apple capybara",
-            "value": 405000000,
+            "value": 390000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2570,7 +2570,7 @@
         },
         {
             "name": "huge unicorn",
-            "value": 148000000,
+            "value": 151000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2588,7 +2588,7 @@
         },
         {
             "name": "huge crystal dog",
-            "value": 80000000,
+            "value": 72000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2606,7 +2606,7 @@
         },
         {
             "name": "huge nightfall wolf",
-            "value": 128000000,
+            "value": 123000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2624,7 +2624,7 @@
         },
         {
             "name": "huge nightfall pegasus",
-            "value": 131000000,
+            "value": 133000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2642,7 +2642,7 @@
         },
         {
             "name": "huge chest mimic",
-            "value": 380000000,
+            "value": 370000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2660,7 +2660,7 @@
         },
         {
             "name": "huge tech chest mimic",
-            "value": 178000000,
+            "value": 187000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2678,7 +2678,7 @@
         },
         {
             "name": "huge enchanted deer",
-            "value": 73000000,
+            "value": 69000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2696,7 +2696,7 @@
         },
         {
             "name": "huge sapphire phoenix",
-            "value": 125000000,
+            "value": 116000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2714,7 +2714,7 @@
         },
         {
             "name": "huge techno cat",
-            "value": 79000000,
+            "value": 82000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2732,7 +2732,7 @@
         },
         {
             "name": "huge cheerful yeti",
-            "value": 116000000,
+            "value": 113000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2750,7 +2750,7 @@
         },
         {
             "name": "huge corgi",
-            "value": 108000000,
+            "value": 103000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2768,7 +2768,7 @@
         },
         {
             "name": "huge ducky",
-            "value": 126000000,
+            "value": 127000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2786,7 +2786,7 @@
         },
         {
             "name": "huge skeleton",
-            "value": 67000000,
+            "value": 72000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2804,7 +2804,7 @@
         },
         {
             "name": "huge ghost",
-            "value": 68000000,
+            "value": 64000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2858,7 +2858,7 @@
         },
         {
             "name": "huge reindeer axolotl",
-            "value": 207000000,
+            "value": 230000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2876,7 +2876,7 @@
         },
         {
             "name": "huge reindeer dog",
-            "value": 152000000,
+            "value": 160000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2894,7 +2894,7 @@
         },
         {
             "name": "huge santa dragon",
-            "value": 178000000,
+            "value": 175000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2912,7 +2912,7 @@
         },
         {
             "name": "huge santa monkey",
-            "value": 235000000,
+            "value": 236000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2930,7 +2930,7 @@
         },
         {
             "name": "huge squirrel",
-            "value": 63000000,
+            "value": 61000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2948,7 +2948,7 @@
         },
         {
             "name": "huge white balloon cat",
-            "value": 1100000000,
+            "value": 1050000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2960,7 +2960,7 @@
         },
         {
             "name": "huge gleebo the alien",
-            "value": 170000000,
+            "value": 167000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2978,7 +2978,7 @@
         },
         {
             "name": "huge pastel sock dragon",
-            "value": 240000000,
+            "value": 275000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2996,7 +2996,7 @@
         },
         {
             "name": "huge pink marshmallow chick",
-            "value": 268000000,
+            "value": 310000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3014,7 +3014,7 @@
         },
         {
             "name": "huge crocodile",
-            "value": 77000000,
+            "value": 72000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3032,7 +3032,7 @@
         },
         {
             "name": "huge mermaid cat",
-            "value": 66000000,
+            "value": 64000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3050,7 +3050,7 @@
         },
         {
             "name": "huge giraffe",
-            "value": 65000000,
+            "value": 59000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3068,7 +3068,7 @@
         },
         {
             "name": "huge red panda",
-            "value": 87000000,
+            "value": 69000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3086,7 +3086,7 @@
         },
         {
             "name": "huge bearserker",
-            "value": 107000000,
+            "value": 105000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3122,7 +3122,7 @@
         },
         {
             "name": "huge fire horse",
-            "value": 104000000,
+            "value": 101000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3140,7 +3140,7 @@
         },
         {
             "name": "huge poseidon corgi",
-            "value": 73000000,
+            "value": 66000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3164,7 +3164,7 @@
         },
         {
             "name": "huge hoverboard cat",
-            "value": 220000000,
+            "value": 216000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3182,7 +3182,7 @@
         },
         {
             "name": "huge unicorn dragon",
-            "value": 98000000,
+            "value": 99000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3194,7 +3194,7 @@
         },
         {
             "name": "huge celestial dragon",
-            "value": 185000000,
+            "value": 179000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3206,7 +3206,7 @@
         },
         {
             "name": "huge strawberry corgi",
-            "value": 80000000,
+            "value": 79000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3218,7 +3218,7 @@
         },
         {
             "name": "huge hippomelon",
-            "value": 214000000,
+            "value": 210000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3278,7 +3278,7 @@
         },
         {
             "name": "huge white balloon cat",
-            "value": 8449999999,
+            "value": 8650000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3350,7 +3350,7 @@
         },
         {
             "name": "huge party monkey",
-            "value": 5600000000,
+            "value": 5800000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3368,7 +3368,7 @@
         },
         {
             "name": "huge party penguin",
-            "value": 1050000000,
+            "value": 1150000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3626,7 +3626,7 @@
         },
         {
             "name": "huge reindeer axolotl",
-            "value": 2350000000,
+            "value": 2500000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3644,7 +3644,7 @@
         },
         {
             "name": "huge reindeer dog",
-            "value": 2300000000,
+            "value": 2450000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3656,7 +3656,7 @@
         },
         {
             "name": "huge santa dragon",
-            "value": 2950000000,
+            "value": 3100000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3674,7 +3674,7 @@
         },
         {
             "name": "huge santa monkey",
-            "value": 2450000000,
+            "value": 2600000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3782,7 +3782,7 @@
         },
         {
             "name": "huge angelus",
-            "value": 12600000000,
+            "value": 12850000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3824,7 +3824,7 @@
         },
         {
             "name": "huge pop cat",
-            "value": 1850000000,
+            "value": 1950000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3866,7 +3866,7 @@
         },
         {
             "name": "huge safari dog",
-            "value": 5800000000,
+            "value": 6000000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3890,7 +3890,7 @@
         },
         {
             "name": "huge meebo in a spaceship",
-            "value": 2550000000,
+            "value": 2750000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3908,7 +3908,7 @@
         },
         {
             "name": "huge diamond cat",
-            "value": 7700000000,
+            "value": 7900000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5492,7 +5492,7 @@
         },
         {
             "name": "huge holiday pegasus",
-            "value": 85000000,
+            "value": 82000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5504,7 +5504,7 @@
         },
         {
             "name": "huge evolved pterodactyl",
-            "value": 102000000,
+            "value": 99000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5516,7 +5516,7 @@
         },
         {
             "name": "huge evolved pixel cat",
-            "value": 182000000,
+            "value": 175000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5528,7 +5528,7 @@
         },
         {
             "name": "huge evolved peacock",
-            "value": 116000000,
+            "value": 114000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5540,7 +5540,7 @@
         },
         {
             "name": "huge evolved king cobra",
-            "value": 121000000,
+            "value": 113000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5552,7 +5552,7 @@
         },
         {
             "name": "huge evolved hell rock",
-            "value": 82000000,
+            "value": 76000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5564,7 +5564,7 @@
         },
         {
             "name": "huge evolved hacked cat",
-            "value": 245000000,
+            "value": 243000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5576,7 +5576,7 @@
         },
         {
             "name": "huge evolved cupcake",
-            "value": 118000000,
+            "value": 107000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5636,7 +5636,7 @@
         },
         {
             "name": "huge present cat",
-            "value": 15200000000,
+            "value": 14440000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5648,7 +5648,7 @@
         },
         {
             "name": "huge peppermint angelus",
-            "value": 177000000,
+            "value": 174000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5660,13 +5660,13 @@
         },
         {
             "name": "huge jolly narwhal",
-            "value": 68000000,
+            "value": 63000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge propeller cat",
-            "value": 66000000,
+            "value": 58000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5684,7 +5684,7 @@
         },
         {
             "name": "huge wizard westie",
-            "value": 59000000,
+            "value": 54500000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5696,7 +5696,7 @@
         },
         {
             "name": "huge shadow dominus",
-            "value": 84000000,
+            "value": 80000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5714,7 +5714,7 @@
         },
         {
             "name": "huge fluffy cat",
-            "value": 65000000,
+            "value": 59000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5732,7 +5732,7 @@
         },
         {
             "name": "huge knight beagle",
-            "value": 72000000,
+            "value": 65000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5750,7 +5750,7 @@
         },
         {
             "name": "huge zebra",
-            "value": 61000000,
+            "value": 55000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5768,7 +5768,7 @@
         },
         {
             "name": "huge robber pug",
-            "value": 62000000,
+            "value": 57000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5786,13 +5786,13 @@
         },
         {
             "name": "huge lucki",
-            "value": 160000000,
+            "value": 168000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge angel cat",
-            "value": 1350000000,
+            "value": 1300000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5816,31 +5816,31 @@
         },
         {
             "name": "huge fox",
-            "value": 202000000,
+            "value": 195000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge cow",
-            "value": 215000000,
+            "value": 210000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge otter",
-            "value": 290000000,
+            "value": 315000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge owl",
-            "value": 19380000000,
+            "value": 19000000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge white tiger",
-            "value": 310000000,
+            "value": 320000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5942,7 +5942,7 @@
         },
         {
             "name": "huge emoji cat",
-            "value": 115000000,
+            "value": 107000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5960,7 +5960,7 @@
         },
         {
             "name": "huge emoji monkey",
-            "value": 147000000,
+            "value": 140000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5996,31 +5996,31 @@
         },
         {
             "name": "blue huge chroma lucki",
-            "value": 105500000,
+            "value": 105000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "orange huge chroma lucki",
-            "value": 106500000,
+            "value": 108000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "pink huge chroma lucki",
-            "value": 105000000,
+            "value": 103500000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "yellow huge chroma lucki",
-            "value": 105000000,
+            "value": 103000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "red huge chroma lucki",
-            "value": 115000000,
+            "value": 120000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6032,31 +6032,31 @@
         },
         {
             "name": "blue huge chroma lucky block",
-            "value": 138500000,
+            "value": 173000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "orange huge chroma lucky block",
-            "value": 140000000,
+            "value": 176000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "pink huge chroma lucky block",
-            "value": 137500000,
+            "value": 171000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "red huge chroma lucky block",
-            "value": 165000000,
+            "value": 205000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "yellow huge chroma lucky block",
-            "value": 137500000,
+            "value": 170000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6212,13 +6212,13 @@
         },
         {
             "name": "huge valentines cat",
-            "value": 121000000,
+            "value": 132000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge heart balloon cat",
-            "value": 177000000,
+            "value": 175000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6266,7 +6266,7 @@
         },
         {
             "name": "huge happy computer",
-            "value": 56000000,
+            "value": 54500000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6284,13 +6284,13 @@
         },
         {
             "name": "huge jelly axolotl",
-            "value": 145000000,
+            "value": 140000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge jelly monkey",
-            "value": 177000000,
+            "value": 167000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6320,13 +6320,13 @@
         },
         {
             "name": "huge cyber agony",
-            "value": 62000000,
+            "value": 58000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge lumi axolotl",
-            "value": 240000000,
+            "value": 265000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6344,7 +6344,7 @@
         },
         {
             "name": "huge glitched cat",
-            "value": 600000000,
+            "value": 585000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6362,7 +6362,7 @@
         },
         {
             "name": "huge abyssal axolotl",
-            "value": 180000000,
+            "value": 165000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6380,7 +6380,7 @@
         },
         {
             "name": "huge hi-tech tiger",
-            "value": 133000000,
+            "value": 128000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6398,7 +6398,7 @@
         },
         {
             "name": "huge bat",
-            "value": 63000000,
+            "value": 59000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6434,7 +6434,7 @@
         },
         {
             "name": "huge willow wisp",
-            "value": 73000000,
+            "value": 64000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6470,7 +6470,7 @@
         },
         {
             "name": "huge red fluffy",
-            "value": 122000000,
+            "value": 130000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6506,7 +6506,7 @@
         },
         {
             "name": "huge pastel elephant",
-            "value": 72000000,
+            "value": 66000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6542,7 +6542,7 @@
         },
         {
             "name": "huge blurred dominus",
-            "value": 1380000000,
+            "value": 1350000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6578,7 +6578,7 @@
         },
         {
             "name": "huge koi fish",
-            "value": 62000000,
+            "value": 57000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6614,7 +6614,7 @@
         },
         {
             "name": "huge elephant",
-            "value": 58000000,
+            "value": 55000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6650,7 +6650,7 @@
         },
         {
             "name": "huge bee",
-            "value": 71000000,
+            "value": 65000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6704,7 +6704,7 @@
         },
         {
             "name": "huge colorful wisp",
-            "value": 81000000,
+            "value": 75000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6770,13 +6770,13 @@
         },
         {
             "name": "huge arcade dragon",
-            "value": 205000000,
+            "value": 200000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge firefly",
-            "value": 715000000,
+            "value": 685000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6800,7 +6800,7 @@
         },
         {
             "name": "huge whale shark",
-            "value": 87000000,
+            "value": 71000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6818,13 +6818,13 @@
         },
         {
             "name": "huge alien arachnid",
-            "value": 6080000000,
+            "value": 5700000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge jester dog",
-            "value": 87000000,
+            "value": 83000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6848,7 +6848,7 @@
         },
         {
             "name": "huge super tiger",
-            "value": 140000000,
+            "value": 146000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6872,7 +6872,7 @@
         },
         {
             "name": "huge rich cat",
-            "value": 73000000,
+            "value": 67000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6896,7 +6896,7 @@
         },
         {
             "name": "huge clover fairy",
-            "value": 104000000,
+            "value": 100000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6956,13 +6956,13 @@
         },
         {
             "name": "huge sketch corgi",
-            "value": 94000000,
+            "value": 86000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge sketch dragon",
-            "value": 143000000,
+            "value": 122000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7058,7 +7058,7 @@
         },
         {
             "name": "huge party dragon",
-            "value": 135000000,
+            "value": 120000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7094,7 +7094,7 @@
         },
         {
             "name": "huge electric cat",
-            "value": 95000000,
+            "value": 90000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7112,7 +7112,7 @@
         },
         {
             "name": "huge tech samurai cat",
-            "value": 2250000000,
+            "value": 1950000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7142,7 +7142,7 @@
         },
         {
             "name": "huge hot dog",
-            "value": 315000000,
+            "value": 300000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7160,7 +7160,7 @@
         },
         {
             "name": "huge purple dragon",
-            "value": 500000000,
+            "value": 315000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7178,7 +7178,7 @@
         },
         {
             "name": "huge black hole axolotl",
-            "value": 150000000,
+            "value": 135000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7202,7 +7202,7 @@
         },
         {
             "name": "huge black hole kitsune",
-            "value": 0,
+            "value": 295000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7220,7 +7220,7 @@
         },
         {
             "name": "huge 404 demon",
-            "value": 135000000,
+            "value": 110000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7256,7 +7256,7 @@
         },
         {
             "name": "huge kangaroo",
-            "value": 0,
+            "value": 80000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7346,7 +7346,7 @@
         },
         {
             "name": "rainbow titanic dominus astra",
-            "value": 55100000000,
+            "value": 53200000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -7982,7 +7982,7 @@
         },
         {
             "name": "rainbow titanic kawaii cat",
-            "value": 0,
+            "value": 64599999999,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -8054,7 +8054,7 @@
         },
         {
             "name": "rainbow titanic sketch cat",
-            "value": 0,
+            "value": 102600000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -8150,7 +8150,7 @@
         },
         {
             "name": "rainbow titanic black hole angelus",
-            "value": 0,
+            "value": 106400000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -8162,7 +8162,7 @@
         },
         {
             "name": "titanic black hole angelus",
-            "value": 24000000000,
+            "value": 24500000000,
             "rarity": "normal",
             "shiny": false
         },
