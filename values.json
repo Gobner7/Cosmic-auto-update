@@ -698,13 +698,13 @@
         },
         {
             "name": "huge crowned cat",
-            "value": 6500000000,
+            "value": 6210000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge crowned corgi",
-            "value": 22800000000,
+            "value": 21900000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -2018,7 +2018,7 @@
         },
         {
             "name": "huge stunt unicorn",
-            "value": 15200000000,
+            "value": 13870000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -3950,7 +3950,7 @@
         },
         {
             "name": "huge comet agony",
-            "value": 3600000000,
+            "value": 3800000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -3980,7 +3980,7 @@
         },
         {
             "name": "huge clover dragon",
-            "value": 1170000000,
+            "value": 1320000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4052,7 +4052,7 @@
         },
         {
             "name": "huge kawaii cat",
-            "value": 2500000000,
+            "value": 2650000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4298,7 +4298,7 @@
         },
         {
             "name": "huge kraken",
-            "value": 4200000000,
+            "value": 4400000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4322,7 +4322,7 @@
         },
         {
             "name": "huge pinata cat",
-            "value": 2850000000,
+            "value": 3000000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4334,7 +4334,7 @@
         },
         {
             "name": "huge cool cat",
-            "value": 1250000000,
+            "value": 1200000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4352,7 +4352,7 @@
         },
         {
             "name": "huge jelly pig",
-            "value": 1300000000,
+            "value": 1380000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4394,7 +4394,7 @@
         },
         {
             "name": "huge basketball retriever",
-            "value": 8199999999,
+            "value": 8550000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4502,7 +4502,7 @@
         },
         {
             "name": "huge gamer shiba",
-            "value": 3750000000,
+            "value": 3950000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4520,7 +4520,7 @@
         },
         {
             "name": "huge tiki dominus",
-            "value": 3300000000,
+            "value": 3500000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4538,7 +4538,7 @@
         },
         {
             "name": "huge pufferfish",
-            "value": 3650000000,
+            "value": 3850000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4586,7 +4586,7 @@
         },
         {
             "name": "huge sandcastle cat",
-            "value": 2900000000,
+            "value": 3000000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4886,7 +4886,7 @@
         },
         {
             "name": "huge anime agony",
-            "value": 4750000000,
+            "value": 4850000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4916,7 +4916,7 @@
         },
         {
             "name": "huge scary cat",
-            "value": 6500000000,
+            "value": 6700000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -4934,7 +4934,7 @@
         },
         {
             "name": "huge scary corgi",
-            "value": 7700000000,
+            "value": 8050000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5006,7 +5006,7 @@
         },
         {
             "name": "huge cyborg cat",
-            "value": 1800000000,
+            "value": 1600000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5036,7 +5036,7 @@
         },
         {
             "name": "huge masked owl",
-            "value": 1450000000,
+            "value": 1500000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5048,7 +5048,7 @@
         },
         {
             "name": "huge turtle",
-            "value": 1050000000,
+            "value": 1100000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5060,7 +5060,7 @@
         },
         {
             "name": "huge husky",
-            "value": 1300000000,
+            "value": 1350000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5072,7 +5072,7 @@
         },
         {
             "name": "huge shark",
-            "value": 1600000000,
+            "value": 1700000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5084,7 +5084,7 @@
         },
         {
             "name": "huge fairy",
-            "value": 1350000000,
+            "value": 1400000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5096,7 +5096,7 @@
         },
         {
             "name": "huge shadow griffin",
-            "value": 2049999999,
+            "value": 2150000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5114,7 +5114,7 @@
         },
         {
             "name": "huge samurai dragon",
-            "value": 1800000000,
+            "value": 1900000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5126,7 +5126,7 @@
         },
         {
             "name": "huge bear",
-            "value": 1350000000,
+            "value": 1400000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5138,13 +5138,13 @@
         },
         {
             "name": "huge apple capybara",
-            "value": 1550000000,
+            "value": 1600000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "huge unicorn",
-            "value": 1400000000,
+            "value": 1450000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5192,7 +5192,7 @@
         },
         {
             "name": "huge chest mimic",
-            "value": 2850000000,
+            "value": 3000000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5318,7 +5318,7 @@
         },
         {
             "name": "huge monkey",
-            "value": 7650000000,
+            "value": 8000000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5336,7 +5336,7 @@
         },
         {
             "name": "huge axolotl",
-            "value": 8050000000,
+            "value": 8400000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5354,7 +5354,7 @@
         },
         {
             "name": "huge pastel sock dragon",
-            "value": 2550000000,
+            "value": 2700000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5372,7 +5372,7 @@
         },
         {
             "name": "huge pink marshmallow chick",
-            "value": 2600000000,
+            "value": 2750000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5390,7 +5390,7 @@
         },
         {
             "name": "huge gleebo the alien",
-            "value": 2049999999,
+            "value": 2150000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5420,7 +5420,7 @@
         },
         {
             "name": "huge evolved pixel cat",
-            "value": 3400000000,
+            "value": 3600000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5432,7 +5432,7 @@
         },
         {
             "name": "huge evolved king cobra",
-            "value": 2100000000,
+            "value": 2200000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5468,7 +5468,7 @@
         },
         {
             "name": "huge evolved hacked cat",
-            "value": 3800000000,
+            "value": 4000000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5480,7 +5480,7 @@
         },
         {
             "name": "huge evolved cupcake",
-            "value": 1000000000,
+            "value": 1100000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5636,7 +5636,7 @@
         },
         {
             "name": "huge present cat",
-            "value": 14440000000,
+            "value": 14600000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5690,7 +5690,7 @@
         },
         {
             "name": "huge dove",
-            "value": 2700000000,
+            "value": 2850000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5834,7 +5834,7 @@
         },
         {
             "name": "huge owl",
-            "value": 19000000000,
+            "value": 18250000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5864,7 +5864,7 @@
         },
         {
             "name": "huge celestial dragon",
-            "value": 7750000000,
+            "value": 8100000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -5936,7 +5936,7 @@
         },
         {
             "name": "huge sensei penguin",
-            "value": 11020000000,
+            "value": 10590000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -5978,7 +5978,7 @@
         },
         {
             "name": "huge unicorn dragon",
-            "value": 3750000000,
+            "value": 3950000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -6098,7 +6098,7 @@
         },
         {
             "name": "purple huge chroma lucki",
-            "value": 7250000000,
+            "value": 7450000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -6110,7 +6110,7 @@
         },
         {
             "name": "orange huge chroma lucky block",
-            "value": 1650000000,
+            "value": 1750000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -6122,7 +6122,7 @@
         },
         {
             "name": "red huge chroma lucky block",
-            "value": 4099999999,
+            "value": 4350000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -6248,7 +6248,7 @@
         },
         {
             "name": "huge empyrean axolotl",
-            "value": 12540000000,
+            "value": 12050000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -6812,13 +6812,13 @@
         },
         {
             "name": "huge mystical fox",
-            "value": 6840000000,
+            "value": 5840000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "huge alien arachnid",
-            "value": 5700000000,
+            "value": 5480000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7262,7 +7262,7 @@
         },
         {
             "name": "titanic jolly cat",
-            "value": 11800000000,
+            "value": 11150000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7274,85 +7274,85 @@
         },
         {
             "name": "rainbow titanic jolly cat",
-            "value": 52440000000,
+            "value": 48300000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic balloon monkey",
-            "value": 10100000000,
+            "value": 9350000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic balloon monkey",
-            "value": 70680000000,
+            "value": 65099999999,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic neon agony",
-            "value": 20450000000,
+            "value": 18900000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic neon agony",
-            "value": 163400000000,
+            "value": 150500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic blue balloon cat",
-            "value": 8850000000,
+            "value": 8150000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic blue balloon cat",
-            "value": 35720000000,
+            "value": 32900000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic red balloon cat",
-            "value": 8850000000,
+            "value": 8150000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic red balloon cat",
-            "value": 34200000000,
+            "value": 31500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic hubert",
-            "value": 9150000000,
+            "value": 8600000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic hubert",
-            "value": 49400000000,
+            "value": 45500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic dominus astra",
-            "value": 8670000000,
+            "value": 8100000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic dominus astra",
-            "value": 53200000000,
+            "value": 49000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic hippomelon",
-            "value": 87400000000,
+            "value": 84000000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7364,85 +7364,85 @@
         },
         {
             "name": "titanic blobfish",
-            "value": 38500000000,
+            "value": 36750000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic hologram cat",
-            "value": 8900000000,
+            "value": 8250000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic hologram cat",
-            "value": 68400000000,
+            "value": 63000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic capybara",
-            "value": 9550000000,
+            "value": 8900000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic capybara",
-            "value": 159600000000,
+            "value": 147000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic lucki",
-            "value": 8930000000,
+            "value": 8300000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic lucki",
-            "value": 41800000000,
+            "value": 38500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic mystic corgi",
-            "value": 10700000000,
+            "value": 9800000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic mystic corgi",
-            "value": 91200000000,
+            "value": 84000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic jelly cat",
-            "value": 13000000000,
+            "value": 12800000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic jelly cat",
-            "value": 159600000000,
+            "value": 147000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic tiedye cat",
-            "value": 9500000000,
+            "value": 8850000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic tiedye cat",
-            "value": 152000000000,
+            "value": 140000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic tiedye dragon",
-            "value": 9150000000,
+            "value": 8550000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -7454,37 +7454,37 @@
         },
         {
             "name": "titanic nightmare cat",
-            "value": 22100000000,
+            "value": 22500000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic nightmare cat",
-            "value": 159600000000,
+            "value": 147000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic atlantean jellyfish",
-            "value": 17200000000,
+            "value": 16100000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic atlantean jellyfish",
-            "value": 95000000000,
+            "value": 87500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic cat",
-            "value": 32700000000,
+            "value": 30100000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "golden titanic cat",
-            "value": 98800000000,
+            "value": 91000000000,
             "rarity": "golden",
             "shiny": false
         },
@@ -7496,97 +7496,97 @@
         },
         {
             "name": "titanic cosmic pegasus",
-            "value": 9750000000,
+            "value": 9100000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic cosmic pegasus",
-            "value": 60800000000,
+            "value": 56000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic fire dragon",
-            "value": 10650000000,
+            "value": 9950000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic fire dragon",
-            "value": 121600000000,
+            "value": 112000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic shadow griffin",
-            "value": 11950000000,
+            "value": 11350000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic shadow griffin",
-            "value": 83600000000,
+            "value": 77000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic scary corgi",
-            "value": 9350000000,
+            "value": 8600000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic scary corgi",
-            "value": 53200000000,
+            "value": 49000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic banana cat",
-            "value": 7850000000,
+            "value": 7250000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic banana cat",
-            "value": 28500000000,
+            "value": 26250000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic fawn",
-            "value": 7600000000,
+            "value": 7000000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic fawn",
-            "value": 25840000000,
+            "value": 23800000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic reindeer",
-            "value": 7700000000,
+            "value": 7100000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic reindeer",
-            "value": 27360000000,
+            "value": 25200000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic jolly cat",
-            "value": 36480000000,
+            "value": 33600000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic balloon monkey",
-            "value": 23940000000,
+            "value": 22050000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7598,13 +7598,13 @@
         },
         {
             "name": "titanic neon agony",
-            "value": 39900000000,
+            "value": 36750000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic blue balloon cat",
-            "value": 20140000000,
+            "value": 18550000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7616,19 +7616,19 @@
         },
         {
             "name": "titanic red balloon cat",
-            "value": 20140000000,
+            "value": 18550000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic hubert",
-            "value": 20520000000,
+            "value": 18900000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic dominus astra",
-            "value": 20520000000,
+            "value": 18900000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7640,25 +7640,25 @@
         },
         {
             "name": "titanic hologram cat",
-            "value": 21660000000,
+            "value": 19950000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic capybara",
-            "value": 22040000000,
+            "value": 20300000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic lucki",
-            "value": 20140000000,
+            "value": 18550000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic mystic corgi",
-            "value": 26600000000,
+            "value": 24500000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7670,19 +7670,19 @@
         },
         {
             "name": "titanic jelly cat",
-            "value": 53960000000,
+            "value": 49700000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic tiedye cat",
-            "value": 28880000000,
+            "value": 26600000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic tiedye dragon",
-            "value": 28880000000,
+            "value": 26600000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7694,7 +7694,7 @@
         },
         {
             "name": "titanic atlantean jellyfish",
-            "value": 31160000000,
+            "value": 28700000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7706,205 +7706,205 @@
         },
         {
             "name": "titanic cosmic pegasus",
-            "value": 22040000000,
+            "value": 20300000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic silver dragon",
-            "value": 13400000000,
+            "value": 12700000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic silver dragon",
-            "value": 79800000000,
+            "value": 73500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic cheerful yeti",
-            "value": 8100000000,
+            "value": 7500000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic cheerful yeti",
-            "value": 20140000000,
+            "value": 18550000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "rainbow titanic cheerful yeti",
-            "value": 43320000000,
+            "value": 39900000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic banana cat",
-            "value": 22420000000,
+            "value": 20650000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic reindeer",
-            "value": 16340000000,
+            "value": 15050000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic fawn",
-            "value": 15960000000,
+            "value": 14700000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic monkey",
-            "value": 8199999999,
+            "value": 7600000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic red panda",
-            "value": 8150000000,
+            "value": 7550000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic red panda",
-            "value": 17100000000,
+            "value": 15750000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "rainbow titanic red panda",
-            "value": 35720000000,
+            "value": 32900000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic monkey",
-            "value": 18240000000,
+            "value": 16800000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "rainbow titanic monkey",
-            "value": 83600000000,
+            "value": 77000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic silver dragon",
-            "value": 39520000000,
+            "value": 36400000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic corgi",
-            "value": 8199999999,
+            "value": 7600000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic axolotl",
-            "value": 8100000000,
+            "value": 7500000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic emoji corgi",
-            "value": 11400000000,
+            "value": 10600000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic emoji corgi",
-            "value": 57000000000,
+            "value": 52500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic emoji corgi",
-            "value": 38000000000,
+            "value": 35000000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic shadow griffin",
-            "value": 40280000000,
+            "value": 37100000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic scary corgi",
-            "value": 32680000000,
+            "value": 30100000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic corgi",
-            "value": 18240000000,
+            "value": 16800000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic axolotl",
-            "value": 17100000000,
+            "value": 15750000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic lovemelon",
-            "value": 18000000000,
+            "value": 16500000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic lovemelon",
-            "value": 60800000000,
+            "value": 56000000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "rainbow titanic lovemelon",
-            "value": 174800000000,
+            "value": 161000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "rainbow titanic corgi",
-            "value": 32299999999,
+            "value": 29750000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "rainbow titanic axolotl",
-            "value": 30400000000,
+            "value": 28000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic valentines cat",
-            "value": 8150000000,
+            "value": 7550000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic love lamb",
-            "value": 9600000000,
+            "value": 8950000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic jelly dragon",
-            "value": 15400000000,
+            "value": 14600000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic jelly dragon",
-            "value": 83600000000,
+            "value": 77000000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -7916,13 +7916,13 @@
         },
         {
             "name": "rainbow titanic love lamb",
-            "value": 33439999999,
+            "value": 30800000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic love lamb",
-            "value": 20140000000,
+            "value": 18550000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7934,13 +7934,13 @@
         },
         {
             "name": "rainbow titanic valentines cat",
-            "value": 31160000000,
+            "value": 28700000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic valentines cat",
-            "value": 24320000000,
+            "value": 22400000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7952,19 +7952,19 @@
         },
         {
             "name": "titanic bread shiba",
-            "value": 8500000000,
+            "value": 7900000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic bread shiba",
-            "value": 33439999999,
+            "value": 30800000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic bread shiba",
-            "value": 19760000000,
+            "value": 18200000000,
             "rarity": "normal",
             "shiny": true
         },
@@ -7976,73 +7976,73 @@
         },
         {
             "name": "titanic kawaii cat",
-            "value": 8500000000,
+            "value": 7900000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic kawaii cat",
-            "value": 64599999999,
+            "value": 59500000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic kawaii cat",
-            "value": 22800000000,
+            "value": 21000000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic bat cat",
-            "value": 11550000000,
+            "value": 10700000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "rainbow titanic bat cat",
-            "value": 98800000000,
+            "value": 91000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "titanic bat cat",
-            "value": 25080000000,
+            "value": 23100000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic sock cat",
-            "value": 8250000000,
+            "value": 7650000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic sock monkey",
-            "value": 8300000000,
+            "value": 7700000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic sock cat",
-            "value": 38000000000,
+            "value": 35000000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "titanic sock monkey",
-            "value": 21280000000,
+            "value": 19600000000,
             "rarity": "normal",
             "shiny": true
         },
         {
             "name": "rainbow titanic sock cat",
-            "value": 91200000000,
+            "value": 84000000000,
             "rarity": "rainbow",
             "shiny": false
         },
         {
             "name": "rainbow titanic sock monkey",
-            "value": 53200000000,
+            "value": 49000000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -8054,7 +8054,7 @@
         },
         {
             "name": "rainbow titanic sketch cat",
-            "value": 102600000000,
+            "value": 94500000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -8084,13 +8084,13 @@
         },
         {
             "name": "titanic party cat",
-            "value": 22800000000,
+            "value": 21500000000,
             "rarity": "normal",
             "shiny": false
         },
         {
             "name": "titanic sketch cat",
-            "value": 13400000000,
+            "value": 12500000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -8120,7 +8120,7 @@
         },
         {
             "name": "titanic pink balloon cat",
-            "value": 53200000000,
+            "value": 56000000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -8150,7 +8150,7 @@
         },
         {
             "name": "rainbow titanic black hole angelus",
-            "value": 106400000000,
+            "value": 98000000000,
             "rarity": "rainbow",
             "shiny": false
         },
@@ -8162,7 +8162,7 @@
         },
         {
             "name": "titanic black hole angelus",
-            "value": 24500000000,
+            "value": 23800000000,
             "rarity": "normal",
             "shiny": false
         },
@@ -8186,7 +8186,7 @@
         },
         {
             "name": "titanic rich cat",
-            "value": 20000000000,
+            "value": 19000000000,
             "rarity": "normal",
             "shiny": false
         }
